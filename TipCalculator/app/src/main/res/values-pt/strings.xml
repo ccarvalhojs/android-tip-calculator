@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Gorjetas</string>
+    <string name="enter_amount">Coloque o Valor</string>
+    <string name="tip">Gorjeta</string>
+    <string name="total">Total</string>
+</resources>
